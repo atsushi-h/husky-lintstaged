@@ -25,7 +25,6 @@ export default function Home() {
               priority
             />
           </a>
-          Test
         </div>
         test test
       </div>
